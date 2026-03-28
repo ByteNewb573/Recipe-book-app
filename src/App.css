@@ -1,0 +1,6 @@
+
+.nav-hover:hover {
+  background-color: #ffc107; /* Bootstrap yellow */
+  color: #000 !important;    /* Black text for contrast */
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
